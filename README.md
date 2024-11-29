@@ -3,7 +3,7 @@
 [![Isabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabelacy&show_icons=true&theme=radical)](https://github.com/Isabelacy/github-readme-stats)
 
 # 🚧 Status Atual
-- 📚 Estudante de Sistemas de Informação e Desenvolvimento Full Stack.
+- 📚 Estudante de Sistemas de Informação e Análise e Desenvolvimento de Sistemas.
 - 🧑‍💻 Aprendendo Python, Lógica de Programação e Automação de Tarefas.
 - 🚀 Em busca de aplicar o aprendizado em projetos práticos.
 
